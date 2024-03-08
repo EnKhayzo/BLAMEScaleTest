@@ -5,7 +5,7 @@ A basic Unity demo/showcase of the scale of The City in the Manga BLAME!
 For the size and shape of The City i went with old posts that i found scatterend around the web, mostly i was inspired by this [reddit post](https://www.reddit.com/r/Netsphere/comments/5myc28/the_size_of_the_city/) and the links that a now deleted user has posted which link to an old fanbase forum post. And [this](https://forums.spacebattles.com/threads/please-explain-the-city-blame-to-me.529507/) forum post.
 
 Basing the scale on those sources, i went with ~1.6e+12 units (or, assuming 1000 units/km, 1.6 billion kilometers/994 million miles), which is slightly bigger than Jupiter's orbit.\
-The spikes go up to 19 trillion km/9 trillion miles away, which would be the theoretical extreme outer edge of the Oort Cloud, 100.000 AU away.
+The spikes go up to 15 trillion km/9 trillion miles away, which would be the theoretical extreme outer edge of the Oort Cloud, 100.000 AU away.
 
 All of the numbers could be wrong, i didn't look too much into the specific or accurate measurements; but they should be in the right ballpark.
 
