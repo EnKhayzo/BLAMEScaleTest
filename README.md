@@ -1,3 +1,18 @@
+<div align="center">
+  <a href="https://www.youtube.com/@EnKhayzo">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCsQQB2f90XGFyr_qtNikbCw?logoColor=red&logo=youtube&style=for-the-badge"
+            alt="Youtube"></a>
+  <a href="https://discord.gg/nZDkBDbHjU">
+        <img src="https://img.shields.io/discord/1324804381610213407?color=blue&labelColor=555555&label=&logo=discord&style=for-the-badge"
+            alt="Chat on Discord"></a>
+  <a href="https://x.com/EnKhayzo">
+        <img src="https://img.shields.io/twitter/follow/EnKhayzo?logo=x&logoColor=black&style=for-the-badge"
+            alt="X / Twitter"></a>
+  <a href="https://bsky.app/profile/enkhayzo.bsky.social">
+        <img src="https://img.shields.io/badge/-Bluesky-3686f7?logo=icloud&logoColor=white&style=for-the-badge"
+            alt="Bluesky"></a>
+</div>
+
 # BLAMEScaleTest
 A basic Unity demo/showcase of the scale of The City in the Manga BLAME!
 
