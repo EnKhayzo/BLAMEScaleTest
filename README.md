@@ -16,6 +16,11 @@
 # BLAMEScaleTest
 A basic Unity demo/showcase of the scale of The City in the Manga BLAME!
 
+<div align="center">
+        <img src=".github/images/preview.png?raw=true"
+            alt="Youtube">
+</div>
+
 # The City
 For the size and shape of The City i went with old posts that i found scatterend around the web, mostly i was inspired by this [reddit post](https://www.reddit.com/r/Netsphere/comments/5myc28/the_size_of_the_city/) and the links that a now deleted user has posted which link to an old fanbase forum post. And [this](https://forums.spacebattles.com/threads/please-explain-the-city-blame-to-me.529507/) forum post.
 
