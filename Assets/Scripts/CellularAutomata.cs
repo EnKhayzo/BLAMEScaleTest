@@ -232,7 +232,7 @@ public class CellularAutomata : MonoBehaviour
         mr.material = new Material(Shader.Find("Diffuse"));
         MeshFilter mf = obj.AddComponent<MeshFilter>();
         mf.mesh = m;
-        obj.transform.position += new Vector3(5f, 5f, -10f);
+        obj.transform.position += new Vector3(105f, 5f, -10f);
         obj.transform.SetParent(GameObject.Find("PolarThingy").transform);
     }
 

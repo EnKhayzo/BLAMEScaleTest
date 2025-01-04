@@ -35,6 +35,7 @@ public class CameraControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        toggleCursorLock();
         mainCameras = GameObject.FindGameObjectsWithTag("MainCamera");
 
         mouseSensitivity = PlayerPrefs.GetFloat("mouseSensitivity", 2f);
